@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Training data and temporary files
+data/
+experiments/
+logs/
+*.ckpt
+*.onnx
+*.onnx.json
+*.tsv.gz
+
+# Local audio files (publish after review)
+*.wav
+
+# Temporary files
+*.tmp
+.env
