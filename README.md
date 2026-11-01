@@ -48,7 +48,7 @@ python -m pip install piper-tts
 
 **3. Скачайте модель.**
 
-Скачайте файлы из раздела Releases:
+Скачайте файлы из [релиза Alena v0.1.0](https://github.com/Dianich2/alena-belarusian-tts/releases/tag/v0.1.0):
 
 - `alena_stress_epoch859.onnx`
 - `alena_stress_epoch859.onnx.json`
